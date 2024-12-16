@@ -1,0 +1,7 @@
+langchain==0.0.210
+langchain-openai==0.0.8
+openai==1.10.0
+chromadb==0.4.0
+PyPDF2==3.0.1
+PyMuPDF==1.22.5
+tiktoken==0.5.2
